@@ -9,7 +9,7 @@ local webhook_url = "WEBHOOK_URL_HERE"
 
 RegisterCommand("autodv", function(source) 
     local src = source
-    if IsPlayerAceAllowed(src, "sd_autodv") then
+    if IsPlayerAceAllowed(src, "SD_AutoDV") then
         TriggerClientEvent('chatMessage', -1, '[COMPOUND] ^5Our minds think all vehicles will clear in 10 seconds.')
         Wait(5000)
         TriggerClientEvent('chatMessage', -1, '[COMPOUND] ^5Our minds think all vehicles will clear in 5 seconds.')
