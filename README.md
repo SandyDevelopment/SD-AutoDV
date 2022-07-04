@@ -18,6 +18,9 @@ This can be changed here:
 
 > Example: `add_ace group.admin SD_AutoDV allow`
 
+**COMMAND**
+
+`/autodv`
 
 **SUPPORT**
 
