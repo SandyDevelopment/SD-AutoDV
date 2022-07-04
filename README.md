@@ -1,6 +1,4 @@
 **Sandy Development**
-https://discord.gg/aWtauUMK7j
-
 
 **IMPORTANT**
 
@@ -19,3 +17,8 @@ This can be changed here:
 > SD_AutoDV
 
 > Example: `add_ace group.admin SD_AutoDV allow`
+
+
+**SUPPORT**
+
+For support, please join our Discord: https://discord.gg/aWtauUMK7j
