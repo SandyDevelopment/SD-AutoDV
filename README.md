@@ -13,3 +13,7 @@ This can be changed here:
 3. Drag and drop `SD-AutoDV` into your resources folder
 4. To give permissions for command, please ensure you give aces. Example: `add_ace group.staff SD_AutoDV allow` or even do it by steam hex.
 5. Start `SD-AutoDV` in `server.cfg`
+
+** ACE PERM **
+
+>>> SD_AutoDV
