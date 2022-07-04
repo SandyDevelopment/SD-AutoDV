@@ -14,7 +14,7 @@ This can be changed here:
 4. Start `SD-AutoDV` in `server.cfg`
 5. To give permissions for command, please ensure you do the `ACE PERM` steps.
 
-**ACE PERM** [ Please remember to add this into your permissions file.
+**ACE PERM** [ Please remember to add this into your permissions file ]
 
 > SD_AutoDV
 
