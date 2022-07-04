@@ -18,4 +18,4 @@ This can be changed here:
 
 > SD_AutoDV
 
-> Example: `add_ace group.staff SD_AutoDV allow`
+> Example: `add_ace group.admin SD_AutoDV allow`
